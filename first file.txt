@@ -1,2 +1,3 @@
 i added first feature. 
-i added new feature.
+i added new feature1.
+i added new feature2.
